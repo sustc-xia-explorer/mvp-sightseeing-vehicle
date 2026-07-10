@@ -7,6 +7,7 @@ BOM:
 | Computer    | MS-01       |
 | Vehicle     | G4          |
 | Lidar       | TM-32       |
+| RTK         | M230        |
 
 ## 2.Enviroment:
   (1) Ubuntu 20.04
@@ -24,7 +25,7 @@ BOM:
 #### 3.1.2 HD-Map Scheme
   （1）SLAM：HD-Map tools
   （2）Localization: ndt_matching
-  （3）global planner: dp
+  （3）global planner: dp planner
   （4）local planner: openplanner
   （5）control: pure pursuit
   

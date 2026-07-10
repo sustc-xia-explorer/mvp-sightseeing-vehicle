@@ -5,7 +5,7 @@ BOM:
 |  Material   |    Spec     |
 | ----------- | ----------- |
 | Computer    | MS-01       |
-| Dog         | G4          |
+| Vehicle     | G4          |
 | Lidar       | TM-32       |
 
 ## 2.Enviroment:

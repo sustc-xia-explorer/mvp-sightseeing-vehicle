@@ -5,9 +5,11 @@ BOM:
 |  Material   |    Spec     |
 | ----------- | ----------- |
 | Computer    | MS-01       |
+| Computer    | Orin-agx    |
 | Vehicle     | G4          |
 | Lidar       | TM-32       |
 | RTK         | M230        |
+| Camera      | Senyun 2MP  |
 
 ## 2.Enviroment:
   (1) Ubuntu 20.04

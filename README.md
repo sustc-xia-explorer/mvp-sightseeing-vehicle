@@ -4,8 +4,7 @@ BOM:
 
 |  Material   |    Spec     |
 | ----------- | ----------- |
-| Computer    | MS-01       |
-| Computer    | Orin-agx    |
+| Computer    | AGX Orin    |
 | Vehicle     | G4          |
 | Lidar       | TM-32       |
 | RTK         | M230        |
